@@ -1,40 +1,29 @@
 const URL = "https://lucx-albx.github.io/Dati/Dati.json"
 
-const update ={
-    Nome : "marco",
-    Cognome : "Prova2",
-    Anni : 17,
-    Nascita : "Italia",
-    Lingua : "Italiano"
-}
+// const update ={
+    
+//     "Anni" : 17,
+//     "Nascita" : "Italia",
+//     "Lingua" : "Italiano"
+// }
 
 const options = {
     method: 'POST',
     headers: {
-    'Content-Type': 'application/json',
+    'Accept': 'application/json',
+    'Content-Type': 'application/json'
 },
-body: JSON.stringify(update),
+body: JSON.stringify({
+    Nome : "marco",
+    Cognome : "Prova2",
+}),
 };
 
 const Api =()=>{
     fetch(URL, options)
-  .then(data => {
-      if (!data.ok) {
-        throw Error(data.status);
-       }
-       return data.json();
-      }).then(update => {
-      console.log(update);
-      
-      }).catch(e => {
-      console.log(e);
-      });
+    .then(data => data.json())
+    .then(data =>{
+        alert(data[0])
+    })
     
 }
-
-// fetch(URL, options)
-//     .then((testo) => testo.json())
-//     .then((update)=>{
-//         console.log(update)
-
-//     })
