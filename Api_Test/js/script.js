@@ -18,9 +18,23 @@ body: JSON.stringify(update),
 
 const Api =()=>{
     fetch(URL, options)
-    .then((testo) => testo.json())
-    .then((update)=>{
-        console.log(update)
-
-    })
+  .then(data => {
+      if (!data.ok) {
+        throw Error(data.status);
+       }
+       return data.json();
+      }).then(update => {
+      console.log(update);
+      
+      }).catch(e => {
+      console.log(e);
+      });
+    
 }
+
+// fetch(URL, options)
+//     .then((testo) => testo.json())
+//     .then((update)=>{
+//         console.log(update)
+
+//     })
