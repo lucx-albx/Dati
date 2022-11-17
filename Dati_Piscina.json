@@ -1,0 +1,84 @@
+[
+    {
+        "Num_Lezione": 1,
+        "Nome_Alunno": "Massimo",
+        "Fatica": 8,
+        "M_Percorsi": null,
+        "Max_Freq_Card": null,
+        "Min_Freq_Card": null
+    },
+    {
+        "Num_Lezione": 1,
+        "Nome_Alunno": "Fortunato",
+        "Fatica": 7,
+        "M_Percorsi": null,
+        "Max_Freq_Card": null,
+        "Min_Freq_Card": null
+    },
+    {
+        "Num_Lezione": 2,
+        "Nome_Alunno": "Massimo",
+        "Fatica": null,
+        "M_Percorsi": null,
+        "Max_Freq_Card": null,
+        "Min_Freq_Card": null
+    },
+    {
+        "Num_Lezione": 2,
+        "Nome_Alunno": "Fortunato",
+        "Fatica": null,
+        "M_Percorsi": null,
+        "Max_Freq_Card": null,
+        "Min_Freq_Card": null
+    },
+    {
+        "Num_Lezione": 3,
+        "Nome_Alunno": "Massimo",
+        "Fatica": null,
+        "M_Percorsi": null,
+        "Max_Freq_Card": null,
+        "Min_Freq_Card": null
+    },
+    {
+        "Num_Lezione": 3,
+        "Nome_Alunno": "Fortunato",
+        "Fatica": null,
+        "M_Percorsi": null,
+        "Max_Freq_Card": null,
+        "Min_Freq_Card": null
+    },
+    {
+        "Num_Lezione": 4,
+        "Nome_Alunno": "Massimo",
+        "Fatica": null,
+        "M_Percorsi": null,
+        "Max_Freq_Card": null,
+        "Min_Freq_Card": null
+    },
+    {
+        "Num_Lezione": 4,
+        "Nome_Alunno": "Fortunato",
+        "Fatica": null,
+        "M_Percorsi": null,
+        "Max_Freq_Card": null,
+        "Min_Freq_Card": null
+    },
+    {
+        "Num_Lezione": 5,
+        "Nome_Alunno": "Massimo",
+        "Fatica": null,
+        "M_Percorsi": null,
+        "Max_Freq_Card": null,
+        "Min_Freq_Card": null
+    },
+    {
+        "Num_Lezione": 5,
+        "Nome_Alunno": "Fortunato",
+        "Fatica": null,
+        "M_Percorsi": null,
+        "Max_Freq_Card": null,
+        "Min_Freq_Card": null
+    },
+    
+
+]
