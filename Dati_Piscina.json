@@ -5,7 +5,7 @@
         "Fatica": 8,
         "M_Percorsi": 495,
         "Max_Freq_Card": 144,
-        "Min_Freq_Card": 127
+        "Min_Freq_Card": 69
     },
     {
         "Num_Lezione": 1,
@@ -13,7 +13,7 @@
         "Fatica": 7,
         "M_Percorsi": 425,
         "Max_Freq_Card": 154,
-        "Min_Freq_Card": 121
+        "Min_Freq_Card": 74
     },
     {
         "Num_Lezione": 2,
@@ -34,18 +34,26 @@
     {
         "Num_Lezione": 3,
         "Nome_Alunno": "Massimo",
-        "Fatica": null,
-        "M_Percorsi": null,
-        "Max_Freq_Card": null,
-        "Min_Freq_Card": null
+        "Fatica": 8,
+        "M_Percorsi": 500,
+        "Max_Freq_Card": 170,
+        "Min_Freq_Card": 64
     },
     {
         "Num_Lezione": 3,
         "Nome_Alunno": "Fortunato",
-        "Fatica": null,
-        "M_Percorsi": null,
-        "Max_Freq_Card": null,
-        "Min_Freq_Card": null
+        "Fatica": 8,
+        "M_Percorsi": 500,
+        "Max_Freq_Card": 132,
+        "Min_Freq_Card": 72
+    },
+    {
+        "Num_Lezione": 3,
+        "Nome_Alunno": "Audisio",
+        "Fatica": 7.5,
+        "M_Percorsi": 500,
+        "Max_Freq_Card": 170,
+        "Min_Freq_Card": 64
     },
     {
         "Num_Lezione": 4,
