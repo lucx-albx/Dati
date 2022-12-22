@@ -82,17 +82,25 @@
     {
         "Num_Lezione": 5,
         "Nome_Alunno": "Massimo",
-        "Fatica": null,
-        "M_Percorsi": null,
-        "Max_Freq_Card": null,
-        "Min_Freq_Card": null
+        "Fatica": 7,
+        "M_Percorsi": 600,
+        "Max_Freq_Card": 165,
+        "Min_Freq_Card": 71
     },
     {
         "Num_Lezione": 5,
         "Nome_Alunno": "Fortunato",
-        "Fatica": null,
-        "M_Percorsi": null,
-        "Max_Freq_Card": null,
-        "Min_Freq_Card": null
+        "Fatica": 8.5,
+        "M_Percorsi": 600,
+        "Max_Freq_Card": 152,
+        "Min_Freq_Card": 82
+    },
+    {
+        "Num_Lezione": 5,
+        "Nome_Alunno": "Audisio",
+        "Fatica": 8,
+        "M_Percorsi": 600,
+        "Max_Freq_Card": 126,
+        "Min_Freq_Card": 54
     }
 ]
